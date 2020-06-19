@@ -1,0 +1,100 @@
+---
+navigationLabel: About
+---
+
+import { mix } from "@theme-ui/color";
+import Footer from "../components/footer";
+
+# about_me
+
+<Grid gap={2} columns={[1, "2fr 1fr"]}>
+  <Box>
+    Hello There 👋! My name is Warren Kalolo with aliases [ SentinelWarren & Adruino Sentinel ], a Computer scientist | Software developer, IT specialist, hobbyist 3D artist, Emerging Technologies and Quantum Computing Enthusiast all the way from Africa, Dar es salaam, Tanzania. 
+    Tinkering with Electronics and creating elegant soft tools that are performant is my passion, and ensuring they are accessible is my mission!
+    <Divider/>
+    I am currently deeply immersed into Quantum computing researchs and developments. On a side note, last year Google as allegedly achieved Quantum supremacy, performing a series of quantum computational operations in 200 seconds using a 53 qubit Quantum Computer, what a remarkable milestone! 
+    I am also currently intrigued by Blockchain & Smart Contracts. The possibilities and potential they show in revolutionizing multiple industries i.e Finance, Supply Chain, Healthcare, Cyber security etc especially in African's fourth industrialization context is remarkable and breathtaking.
+    <Divider/>
+    I love working with Open Source Tech while also contributing to them. I also do love sharing the knowledge i have with the community as part of my learning rituals, and believing that could be one of the best method of increasing and widespreading Tech inclusion and STEM diversity within my developing African communities.
+    Encouraging and helping beginners getting into programming and contribute to Open Source is one of my favorite past-times too.
+    <Divider/>
+    I am a proud Scratch Educator, helping kids | youth | students to use Scratch programming language to code their own interactive stories, animations, and games. In the process, they learn to think creatively, reason systematically, and work collaboratively  — essential skills for everyone in today’s society.
+    <Divider/>
+    When i'm not bussy geeking and nerding out with Electronics and computers in general, i tend to immerse my brains into thought provoking philosophical writings & literatures, music, arts and Hard science fiction. Btw, i'm a huge fan of Asimov work.
+  </Box>
+  <Box 
+    sx={{
+        display: "flex",
+        alignItems: "center",
+        p: 2
+    }}>
+    <Image src="../images/warren.jpg" alt="he lame photo of Warren"/>
+  </Box>
+</Grid>
+<Divider/>
+<Grid gap={2} columns={[1, "1fr 1fr 1fr"]}>  
+    <Box>   
+        <Heading variant="styles.h2">get_experience</Heading>
+        <Heading variant="styles.h3" mb={0}>ENGIE Powercorner</Heading>
+        <Text>IT | Digital Officer</Text>
+        <Text variant="styles.small">Oct 2017 - Present</Text>
+        <Divider />
+        <Heading variant="styles.h3" mb={0}>ENGIE Powercorner</Heading>
+        <Text>IT Intern</Text>
+        <Text variant="styles.small">Jul 2017 - Sep 2017</Text>
+        <Divider />
+        <Heading variant="styles.h3" mb={0}>Tembo Electronics</Heading>
+        <Text>Electronics Technician | Programmer</Text>
+        <Text variant="styles.small">Nov 2015 - Jul 2017</Text>
+        <Divider />
+    </Box>
+    <Box>   
+        <Heading variant="styles.h2">get_volunteering</Heading>
+        <Heading variant="styles.h5" mb={0} sx={{color: mix("secondary", "success", `0.5`)}}>Scratch Educator</Heading>
+        <Text>Scratch Teacher</Text>
+        <Text variant="styles.small">Feb 2019 - Present</Text>
+        <Divider />
+        <Heading variant="styles.h5" mb={0} sx={{color: mix("secondary", "success", `0.5`)}}>Dar es Salaam Quantum Physics, Machine Learning & AI Meetup</Heading>
+        <Text>Organizer</Text>
+        <Text variant="styles.small">Apr 2019 - Present</Text>
+        <Divider />
+        <Heading variant="styles.h5" mb={0} sx={{color: mix("secondary", "success", `0.5`)}}>UNICEF Covid -19 Champions</Heading>
+        <Text>Volunteer</Text>
+        <Text variant="styles.small">Apr 2020 - Present</Text>
+        <Divider />
+    </Box>
+    <Box>
+        <Heading variant="styles.h2">get_education</Heading>
+        <Heading variant="styles.h5" mb={0}>Coursera Certifications</Heading>
+        <Text>Introduction to the Internet of Things and Embedded Systems</Text>
+        <Text variant="styles.small">Dec 2015</Text>
+        <Text>Responsive Website Basics: Code with HTML, CSS, and JavaScript</Text>
+        <Text variant="styles.small">Dec 2015</Text>
+        <Text>Ruby on Rails: An Introduction</Text>
+        <Text variant="styles.small">Dec 2015</Text>
+        <Text>Rails with Active Record and Action Pack</Text>
+        <Text variant="styles.small">Dec 2015</Text>
+        <Text>Python Data Structures</Text>
+        <Text variant="styles.small">Jan 2016</Text>
+        <Text>Front-End Web UI Frameworks and Tools</Text>
+        <Text variant="styles.small">Jan 2016</Text>
+        <Text>Introduction to Software Product Management</Text>
+        <Text variant="styles.small">Jan 2016</Text>
+        <Text>Introduction to Big Data</Text>
+        <Text variant="styles.small">Feb 2016</Text>
+        <Text>Big Data, Cloud Computing, & CDN Emerging Technologies</Text>
+        <Text variant="styles.small">Feb 2016</Text>
+        <Text>Smartphone Emerging Technologies</Text>
+        <Text variant="styles.small">Feb 2016</Text>
+        <Text>Introduction to Game Development</Text>
+        <Text variant="styles.small">Feb 2016</Text>
+        <Text>Ruby on Rails Web Services and Integration with MongoDB</Text>
+        <Text variant="styles.small">Mar 2016</Text>
+        <Divider />
+        <Heading variant="styles.h5" mb={0}>OD in Computer Engineering</Heading>
+        <Text>Dar es salaam Institute of Technology</Text>
+        <Text variant="styles.small">2016 - Droup Out</Text>
+        <Divider />
+    </Box>
+</Grid>
+<Footer/>
