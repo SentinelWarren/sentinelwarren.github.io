@@ -1,6 +1,6 @@
 # sentinelwarren.tech
 
-Welcome, Everyone!👋 This is the codebase for my, SentinelWarren's, portfolio website.
+Welcome, Everyone!👋 This is the codebase for SentinelWarren's, portfolio website.
 
 ## Who am I? 👨‍💻
 
