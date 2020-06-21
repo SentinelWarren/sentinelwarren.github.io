@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`
+})
+
 module.exports = {
     siteMetadata: {
         name: "SentinelWarren's Portfolio",
@@ -11,17 +15,24 @@ module.exports = {
             sidebarWidth: 280
         }
     },
-    plugins: [{
+    plugins: [
+        {
             resolve: "@pauliescanlon/gatsby-theme-terminal",
             options: {
                 source: ["posts", "projects"]
             }
         },
         {
+            resolve: `gatsby-plugin-google-analytics`,
+            options: {
+                trackingId: process.env.GA_TRACKING_ID,
+            }
+        },
+        {
            resolve: `gatsby-plugin-canonical-urls`,
            options: {
                siteUrl: `https://sentinelwarren.tech`,
-           },
+           }
         }
     ]
 };
