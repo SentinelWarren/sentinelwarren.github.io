@@ -29,17 +29,13 @@ export const fav_techs = [ "Python", "C", "JavaScript | Typescript", "Powershell
     <Heading variant="styles.h2">favorite_tech</Heading>
     {fav_techs.map((fav_tech, index) => {
         return (
-          <Badge
-            key={index}
-            variant="primary"
+          <Badge key={index} variant="primary"
             sx={{
               mr: 2,
               mb: 2,
               color: mix("secondary", "success", `${index / fav_techs.length}`),
-              borderColor: mix(
-                "secondary",
-                "success",
-                `${index / fav_techs.length}`), }}
+              borderColor: mix("secondary", "success", `${index / fav_techs.length}`)
+              }}
           >
             {fav_tech}
           </Badge>
