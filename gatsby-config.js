@@ -33,6 +33,7 @@ module.exports = {
            options: {
                siteUrl: `https://sentinelwarren.tech`,
            }
-        }
+        },
+        `gatsby-plugin-advanced-sitemap`
     ]
 };
