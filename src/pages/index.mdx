@@ -79,14 +79,10 @@ export const fav_techs = [ "Python", "C", "JavaScript | Typescript", "Powershell
                       key={index}
                       variant="primary"
                       sx={{
-                        mr: 2,
-                        mb: 2,
-                        color: mix("success", "secondary", `${index / tags.length}`),
-                        borderColor: mix(
-                          "success",
-                          "secondary",
-                          `${index / tags.length}`
-                        ),
+                           mr: 2,
+                           mb: 2,
+                           color: mix("success", "secondary", `${index / tags.length}`),
+                           borderColor: mix("success", "secondary", `${index / tags.length}`),
                       }}
                     >
                       {tag}
