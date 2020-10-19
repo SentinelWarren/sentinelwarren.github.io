@@ -18,7 +18,7 @@ export const fav_techs = [ "Python", "C", "JavaScript | Typescript", "Powershell
   <Link href="documents/WarrenKalolo.txt" role="button">.txt version</Link>
 </Message>
 
-<Message variant="success" mb={2}>I fully believe in Emerging technologies especially when it comes to African industrial revolution & digitization context. I root for Open-source Software; and not just Open-source but rather the Stallman's GNU movement. Most of my spare time is spent contemplating the state of Philosophy, Quantum Physics, Neuroscience, Carl Jung's work on Psychoanalysis and other Analytical psychology shenanigans i.e MBTI.</Message>
+<Message variant="success" mb={2}>I fully believe in Emerging technologies especially when it comes to African industrial revolution & digitization context. I root for Open-source Software; and not just Open-source but rather the Stallman's GNU movement. Most of my spare time is spent contemplating the state of Philosophy, Quantum Physics & Computing, Neuroscience, Carl Jung's work on Psychoanalysis and other Analytical psychology shenanigans i.e MBTI.</Message>
 <Divider/>
 <Grid gap={2} columns={[1, "1fr 2fr"]}>
   <Box>
@@ -46,11 +46,11 @@ export const fav_techs = [ "Python", "C", "JavaScript | Typescript", "Powershell
 <SourceList filter="projects">
   {projects => (
     <Flex
-      sx={{
-        flexWrap: "wrap",
-        ml: theme => `-${theme.space[2]}px`,
-        mr: theme => `-${theme.space[2]}px`,
-      }}
+      sx={ {
+          flexWrap: "wrap",
+          ml: theme => `-${theme.space[2]}px`,
+          mr: theme => `-${theme.space[2]}px`,
+      } }
     >
       {projects.splice(0, 3).map((edge, index) => {
         const {
