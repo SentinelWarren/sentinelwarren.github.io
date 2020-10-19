@@ -10,11 +10,11 @@ import Footer from "../components/footer";
 <SourceList filter="posts">
   {posts => (
     <Flex
-      sx={{
-        flexWrap: "wrap",
-        ml: theme => `-${theme.space[2]}px`,
-        mr: theme => `-${theme.space[2]}px`,
-      }}
+      sx={ {
+          flexWrap: "wrap",
+          ml: theme => `-${theme.space[2]}px`,
+          mr: theme => `-${theme.space[2]}px`,
+      } }
     >
       {posts.map((edge, index) => {
         const {
@@ -42,16 +42,12 @@ import Footer from "../components/footer";
                     <Badge
                       key={index}
                       variant="primary"
-                      sx={{
-                        mr: 2,
-                        mb: 2,
-                        color: mix("success", "secondary", `${index / tags.length}`),
-                        borderColor: mix(
-                          "success",
-                          "secondary",
-                          `${index / tags.length}`
-                        ),
-                      }}
+                      sx={ {
+                           mr: 2,
+                           mb: 2,
+                           color: mix("success", "secondary", `${index / tags.length}`),
+                           borderColor: mix("success", "secondary", `${index / tags.length}`),
+                      } }
                     >
                       {tag}
                     </Badge>
