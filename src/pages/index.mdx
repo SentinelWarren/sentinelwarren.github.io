@@ -110,11 +110,11 @@ export const fav_techs = [ "Python", "C", "JavaScript | Typescript", "Powershell
 <SourceList filter="posts">
   {posts => (
     <Flex
-      sx={{
-        flexWrap: "wrap",
-        ml: theme => `-${theme.space[2]}px`,
-        mr: theme => `-${theme.space[2]}px`,
-      }}
+      sx={ {
+          flexWrap: "wrap",
+          ml: theme => `-${theme.space[2]}px`,
+          mr: theme => `-${theme.space[2]}px`,
+      } }
     >
       {posts.splice(0, 4).map((edge, index) => {
         const {
