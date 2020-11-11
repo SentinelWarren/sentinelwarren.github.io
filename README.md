@@ -6,7 +6,7 @@ Welcome, Everyone!👋 This is the codebase for SentinelWarren's, portfolio webs
 
 ## Who am I? 👨‍💻
 
-My name is Warren Kalolo, I manage IT infrastructures and develop software, ML models and WebApps based on different tech stacks, the main being; Python, Javascript | Typescript [Vue.js, Vuetify, React.js, Gatsby], HTML+CSS, C# & Powershell. I am also a 3D artist hobbyist #TeamBlender3D #TeamUnity3D #TeamUnrealEngine.
+My name is Warren Kalolo, I manage IT infrastructures and develop software, ML models and WebApps based on different tech stacks, the main being; Python, Javascript | Typescript [Vue.js, Vuetify, React.js, Gatsby], HTML+CSS, C & Powershell. I am also a 3D artist hobbyist #TeamBlender3D #TeamUnity3D #TeamUnrealEngine.
 
 ## Contributing 🤝
 
