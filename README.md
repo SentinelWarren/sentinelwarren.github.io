@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5c5032ca-b492-41ae-ae82-99601749825b/deploy-status)](https://app.netlify.com/sites/sentinelwarren/deploys)
 
-# sentinelwarren.tech
+# sentinelwarren.science
 
 Welcome, Everyone!👋 This is the codebase for SentinelWarren's, portfolio website.
 
