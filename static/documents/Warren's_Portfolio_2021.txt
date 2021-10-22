@@ -1,0 +1,183 @@
+﻿#!As of Aug 2021;
+
+{
+"id":
+	{
+		"Warren Kalolo",
+        	“Computer Scientist | Self-proclaimed Quantum Computing Enthusiast”, 
+        	"Goba, Dar es salaam, Tanzania",
+        	[ +255748145454, +255719573444 ],
+        	[ "warrenkalolo@gmail.com" , "warrenkalolo@hotmail.com" ]
+    	},
+
+"websites":
+	{
+		"askubuntu": 	“Arduino-Sentinel”,
+		"github":  	“SentinelWarren",
+		"launchpad": 	“Warren Kalolo”,
+		"linkedin": 	“ Warren Alex”,
+		“portfolio”:	“SentinelWarren”,
+		"stackoverflow": “Arduino-Sentinel”
+	},
+}
+
+SUMMARY:
+
+I am an IT specialist, self-taught and self-directed Software developer, everything Computing enthusiast and a tech nerd in general, who fosters a collaborative and supportive team environment. I’m mostly focused on driving initiatives that maximize the impact of the innovation & research division on the company, including transforming the way implementation of innovation, creativity & research defines the delivery of work. Defining a technology outlook that shapes the future of the company & the community impacted by incubating and accelerating selection of emerging technologies & business opportunities to their next phase of growth.
+
+SKILLS:
+
+    • Analytical & Innovative problem solving
+    • Software Development { Comp Architecture, Software & Solutions Architecture, Construction,  Design patterns, Data Structures & Algorithms }
+    • Emerging Technologies { Cloud Computing, AI & Machine Learning, Blockchain, IoT & Robotics }
+    • Electronics | Embedded systems | Microcontrollers
+    • Fundamentals of UI/UX Design & Prototyping ( With Design Thinking methodologies )
+    • IT Management 
+    • Satellite Internet Installation & Operation ( Hughes systems )
+    • Renewable Energy | Smart mini-grids operation ( Victron, Schneider, Sparkmeters )
+    • GIS
+    • Big Data
+    • Data science
+    • Drones operation ( DJI, DYI made )
+    • 3D Modeling, Animation and Game Development
+    • Cryptography
+    • Quantum Computing & Neuroscience scholar
+    • Fundamentals of Economics { Game theory enthusiast ( a passionate rebel against zero-sum games )  }
+
+TOOLS:
+
+	Advanced. Languages: [ CPython,  Ruby, Bash, Powershell, C, Perl, UML, Scratch ]
+
+	Intermediate. Languages: [ Lisp, JavaScript( !Java )/Typescript, Coffee & Live Script, C++, C#, Dart, Scala, Octave, Haskell, Erlang/Elixir, Clojure, GraphQL, SQL, Basic Assembly(MOS6502) ]
+
+	APIs, Frameworks & Libraries: [ NodeJS, VueJS, Electron, Ruby on Rails, Flask, Django, Web2py, PyQt, Kivy, Flexx, Various Python numerical & ML packages ( numpy, pandas, scipy, matplotlib, scikiti_learn, tensorflow, opencv etc etc), Apache Hadoop, Flutter, ffmpeg, and many more... ]
+	
+	DBs: [ SQLite, PostgreSQL, MongoDB, Firebase ]
+
+	VCS: [ Git, Mercurial ]
+ 
+ Web-servers & other IT/DevOps tools & sys: [ GLPI, Apache, Microsoft IIS, NGINX,  AWS, Azure, AzureAD, Docker, Kubernetes,  Linux, Windows server, VMware ESXI, Jenkins, Artifactory, Vagrant, Ansible ]
+
+UI/UX: [ XD, Invision, Figma ]
+
+Other Tools: [ Atlassian products { Jira, Confluence, Bitbucket }, Salesforce, SAP, QGIS, Gimp, OpenGL, Blender3D, Unity3D, Unreal Engine, Some Autodesk products { Maya, Mudbox, 3DS Max }, ROS , Arduino, Raspberry Pi, MSP430 LaunchPad, Sparkmeters, and many many more... ]
+
+EXPERIENCE:
+{
+	“Title”:  “Software Constructor | Developer”,
+	“Employer”: “Freelancing”,
+	“Duration”: “Sep 2020 – Present”
+	
+}
+
+Independent Software development freelancer (both open and closed source), specializing in software architecture, in collaboration with other freelancer & contractors. 
+
+Responsibilities;
+	Within team work collaboration and distributed workflows, ranges from;
+    • Incremental planning, Problem definition and Requirements gathering (use cases and constrains).
+    • Designing & Construction using iterative approaches and other agile methodologies.
+    • Testing and Deployment via iterative approaches with perquisites .
+{
+	“Title”:  “Digital | IT Officer”,
+	“Employer”: “ENGIE Powercorner / ENGIE Africa IT”,
+	“Duration”: “Oct 2017 – Aug 2020”
+	
+}
+
+Responsibilities;
+    • Innovation
+    • Sysadmin ( Windows Server 2012 R2 & Azure AD, VMWARE ESXI, On premise Physical Servers Management )
+    • IT Management / Help-desk | Troubleshooting & Budget planning
+        ◦ Worked closely with ENGIE Africa and ENGIE IT on varies projects i.e. building, config and maintaininng ENGIE Powercorner IT on-premises infrastructure, Skynote deployment, ONE Network roll out across ENGIE Africa Business units, GLPI deployment etc.
+    • Internal Software Development and New digital tools implementation.
+    • KPIs preps
+    • AWS, Azure Sysops & Artifactory package management (build integration,  npm, docker)
+    • Mobile Money services Integration [ Mpesa, Tigo pesa, Halopesa, Airtel Money, Tpesa, MTN ].
+    • Satellite Operations i.e Installation, oversee after installation, network monitoring and troubleshooting with collaboration with various providers.
+    • IoT Smart Meters ( Sparkmeters ) Digital platforms monitoring and management.
+    • Salesforce deployment and management.
+    • SAP administration.
+    • SharePoint administration
+    • Office o365 & Okta admin through ENGIE internal program (Ensemble). 
+    • ESD Machine deployment and monitoring
+        ◦ Created a script to communicate direct with the machine and AWS Endpoints of the company back-ends, for invoices signing of TRA VAT deduction per transactions made via Mobile Money.
+    • Solar-coin Wallet Monitoring &  Block-chain  innovative solutions  implementation
+{
+	“Title”:  “Computer Repair Technician & Programmer”,
+	“Employer”: “Tembo Electronics”,
+	“Duration”: “Nov 2015 – August 2017”
+	
+}
+
+Responsibilities;
+    • Maintenance and Repairing Nodes( Phones & Computers ) from Personal level to Company based Client machines. 
+    • Clients Software development
+    • Embedded Systems | IoT Devices development
+    • Administration of Ubuntu Servers | Cloud instances
+
+PROJECTS:
+
+Proprietary;
+
+    • MUP( Micro Utility Platform )
+
+Was part of the team that developed & maintained an automated Micro Utility Platform that is integrated to CRM solutions, Mobile Money payment gateways [ Mpesa, Tigo pesa, Halopesa, Airtel Money, Tpesa & MTN ] and a cloud metering system. The platform simplified customer orders creation ( using third part CRM solution i.e Salesforce ), by automatically parsing the payments made via MM to the metering system that the customers order was created on in real time. Previously the tasks were done manually by the operators. It was also linked to Bulk sms service for notification to the customers i.e. when they made payments, and for their other various services usage and payments processes in general. Also it helped to automatically switch the customer meters to 0(off) or 1(on) accordingly to customer balance, payments and usage status.
+
+The platform we created had a huge impact on the site operations in general, especially to the Technical & Commercial teams, where as it simplified most of the work and allowed us to fully concentrate in executing other interesting innovative projects, and matter of fact, it has been deployed across more than 8 sites with more than 1500 customers that the company is currently operating both in Tanzania and Zambia
+
+    • AutoQuickAdmin [ ENGIE Ensemble Support/PEO Project ]
+
+Created internal ENGIE Powercorner automated tools to perform basic admin task i.e. O365 license assignment, Okta & Azure AD management, Mailboxes & Distribution List creation etc. It used ENGIE PEO web interface API protected through Okta auth.
+On every API Call the API will create an object named request Container in the database. This object will contain all the parameters of AutoQuickAmin request or (requests if sent more than one request in the requests parameter) and the name of the specific product called. The PEO Engine check the request Container’s database collection to find new entries, if one is found it will process the request Container and create a request Item Object (in the database) for each request contained in the request Container. Then the PEO Engine execute each product and update the request Item status and result (Output parameters). Then AQA deals with the Output parameters accordingly. 
+
+The tool simplified the IT team on performing bulk repetitive admin tasks, generated reports via user friendly dashboards for end of the month KPIs and overall improved the team workflow.
+
+    • Others to be shared upon request.
+
+Open-source;
+
+    • Blockchain_Prototyping
+
+Experimenting around block-chain implementation using python [code base].
+
+    • scheme-In-haskell
+
+A R5rs based Scheme interpreter written in Haskell.
+
+    • PowerShell-Config.py
+
+A simple python script to simplify and automate first time PowerShell configuration.
+
+    • Homebrew-Python
+
+A brew tap for installing older versions of Python.
+
+    • Homebrew-Cask
+
+Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome .
+
+    • Reverse-Shell
+
+Reverse Attacker TCP Python Shell
+
+    • Other
+	
+EDUCATION & ACCOMPLISHMENTS:
+
+Coursera Certifications;
+    • Python Data Structures
+    • Introduction to Game Development
+    • Introduction to Big Data (2015)
+    • Big Data, Cloud Computing, & CDN Emerging
+    • Smartphone Emerging Technologies
+    • Front-End Web UI Frameworks and Tools
+    • Introduction to Software Product Management
+    • Introduction to the Internet of Things and Embedded Systems
+    • Responsive Website Basics: Code with HTML, CSS, and JavaScript
+    • Ruby on Rails: An Introduction
+    • Rails with Active Record and Action Pack
+    • Ruby on Rails Web Services and Integration with MongoDB
+
+REFEREES:
+
+Available upon request!
