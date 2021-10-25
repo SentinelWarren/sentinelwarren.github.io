@@ -4,7 +4,7 @@ require("dotenv").config({
 
 const {
     NODE_ENV,
-    URL: NETLIFY_SITE_URL = "https://sentinelwarren.tech",
+    URL: NETLIFY_SITE_URL = "https://sentinelwarren.science",
     DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
     CONTEXT: NETLIFY_ENV = NODE_ENV,
 } = process.env
@@ -62,7 +62,7 @@ module.exports = {
         {
            resolve: `gatsby-plugin-canonical-urls`,
            options: {
-               siteUrl: `https://sentinelwarren.tech`,
+               siteUrl: `https://sentinelwarren.science`,
            }
         },
         `gatsby-plugin-advanced-sitemap`,
