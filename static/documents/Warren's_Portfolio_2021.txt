@@ -6,7 +6,7 @@
 		"Warren Kalolo",
         	“Computer Scientist | Self-proclaimed Quantum Computing Enthusiast”, 
         	"Goba, Dar es salaam, Tanzania",
-        	[ +255748145454, +255719573444 ],
+        	[ +255627528930 ],
         	[ "warrenkalolo@gmail.com" , "warrenkalolo@hotmail.com" ]
     	},
 
@@ -15,22 +15,24 @@
 		"askubuntu": 	“Arduino-Sentinel”,
 		"github":  	“SentinelWarren",
 		"launchpad": 	“Warren Kalolo”,
-		"linkedin": 	“ Warren Alex”,
+		"linkedin": 	“Warren Alex”,
+		“p5.js”:		“SentinelWarren”,
 		“portfolio”:	“SentinelWarren”,
+		"scratch": 	“Arduino_Sentinel”
 		"stackoverflow": “Arduino-Sentinel”
-	},
+},
 }
 
 SUMMARY:
 
-I am an IT specialist, self-taught and self-directed Software developer, everything Computing enthusiast and a tech nerd in general, who fosters a collaborative and supportive team environment. I’m mostly focused on driving initiatives that maximize the impact of the innovation & research division on the company, including transforming the way implementation of innovation, creativity & research defines the delivery of work. Defining a technology outlook that shapes the future of the company & the community impacted by incubating and accelerating selection of emerging technologies & business opportunities to their next phase of growth.
+	I am an IT specialist, self-directed Software developer, everything Computing enthusiast and a tech nerd/geek in general, who fosters a collaborative and supportive team environment.
+	I’m mostly focused on driving initiatives that maximize the impact of the innovation & research division on the company, including transforming the way implementation of innovation, creativity & research defines the delivery of work. Defining a technology outlook that shapes the future of the company & the community impacted by incubating and accelerating selection of emerging technologies & business opportunities to their next phase of growth.
 
 SKILLS:
-
     • Analytical & Innovative problem solving
     • Software Development { Comp Architecture, Software & Solutions Architecture, Construction,  Design patterns, Data Structures & Algorithms }
     • Emerging Technologies { Cloud Computing, AI & Machine Learning, Blockchain, IoT & Robotics }
-    • Electronics | Embedded systems | Microcontrollers
+    • Electronics | Embedded systems | Micro-controllers
     • Fundamentals of UI/UX Design & Prototyping ( With Design Thinking methodologies )
     • IT Management 
     • Satellite Internet Installation & Operation ( Hughes systems )
@@ -45,12 +47,11 @@ SKILLS:
     • Fundamentals of Economics { Game theory enthusiast ( a passionate rebel against zero-sum games )  }
 
 TOOLS:
+	Advanced. Languages: [ Cpython, Bash, Powershell, Ruby, UML]
 
-	Advanced. Languages: [ CPython,  Ruby, Bash, Powershell, C, Perl, UML, Scratch ]
+	Intermediate. Languages: [ JavaScript( !=Java )/Typescript, Dart, C, C#, Rust, Perl, Scala, Octave, Lisp, Haskell, Erlang/Elixir, Scratch, GraphQL, SQL, Basic Assembly(MOS6502) ]
 
-	Intermediate. Languages: [ Lisp, JavaScript( !Java )/Typescript, Coffee & Live Script, C++, C#, Dart, Scala, Octave, Haskell, Erlang/Elixir, Clojure, GraphQL, SQL, Basic Assembly(MOS6502) ]
-
-	APIs, Frameworks & Libraries: [ NodeJS, VueJS, Electron, Ruby on Rails, Flask, Django, Web2py, PyQt, Kivy, Flexx, Various Python numerical & ML packages ( numpy, pandas, scipy, matplotlib, scikiti_learn, tensorflow, opencv etc etc), Apache Hadoop, Flutter, ffmpeg, and many more... ]
+	APIs, Frameworks & Libraries: [ NodeJS, VueJS, React, Electron, Ruby on Rails, Flutter, FastAPI, Flask, Django, Web2py, PyQt, Kivy, Various Python numerical & ML packages { numpy, pandas, scipy, matplotlib, scikiti_learn, tensorflow, opencv etc etc. }, Apache Hadoop, ffmpeg, and many more... ]
 	
 	DBs: [ SQLite, PostgreSQL, MongoDB, Firebase ]
 
@@ -64,19 +65,37 @@ Other Tools: [ Atlassian products { Jira, Confluence, Bitbucket }, Salesforce, S
 
 EXPERIENCE:
 {
-	“Title”:  “Software Constructor | Developer”,
-	“Employer”: “Freelancing”,
-	“Duration”: “Sep 2020 – Present”
+	“Title”:  “Software Constructor | Developer | DevOps Engineer”,
+	“Employer”: “Mchwa Labs”,
+	“Duration”: “June 2021 – Present”
 	
 }
 
-Independent Software development freelancer (both open and closed source), specializing in software architecture, in collaboration with other freelancer & contractors. 
+	Software development consultant  (both open and closed source) at Mchwa Labs, specializing in software architecture, and DevOps in collaboration with other contractors and freelancers. 
+
+Responsibilities;
+	Within team work collaboration and distributed workflows, they range from;
+    • Incremental planning, Problem definition and Requirements gathering (use cases and constrains).
+    • Designing & Construction using iterative approaches and other agile methodologies.
+    • Agile documentation.
+    • Testing and Deployment via iterative approaches with perquisites .
+    • Software life cycle management in general.
+
+{
+	“Title”: “Software Developer”,
+	“Employer”: “Freelancing”,
+	“Duration”: “Sep 2020 – Present”
+}
+
+	Independent Software development freelancer (both open and closed source), specializing in software architecture, in collaboration with other freelancers & contractors.
 
 Responsibilities;
 	Within team work collaboration and distributed workflows, ranges from;
-    • Incremental planning, Problem definition and Requirements gathering (use cases and constrains).
+    • Incremental planning, Problem definition and Requirements gathering (use cases and
+constrains).
     • Designing & Construction using iterative approaches and other agile methodologies.
     • Testing and Deployment via iterative approaches with perquisites .
+
 {
 	“Title”:  “Digital | IT Officer”,
 	“Employer”: “ENGIE Powercorner / ENGIE Africa IT”,
@@ -88,7 +107,7 @@ Responsibilities;
     • Innovation
     • Sysadmin ( Windows Server 2012 R2 & Azure AD, VMWARE ESXI, On premise Physical Servers Management )
     • IT Management / Help-desk | Troubleshooting & Budget planning
-        ◦ Worked closely with ENGIE Africa and ENGIE IT on varies projects i.e. building, config and maintaininng ENGIE Powercorner IT on-premises infrastructure, Skynote deployment, ONE Network roll out across ENGIE Africa Business units, GLPI deployment etc.
+        ◦ Worked closely with ENGIE Africa and ENGIE IT on varies projects i.e. building, config and maintaining ENGIE Powercorner IT on-premises infrastructure, Skynote deployment, ONE Network roll out across ENGIE Africa Business units, GLPI deployment etc.
     • Internal Software Development and New digital tools implementation.
     • KPIs preps
     • AWS, Azure Sysops & Artifactory package management (build integration,  npm, docker)
@@ -102,6 +121,7 @@ Responsibilities;
     • ESD Machine deployment and monitoring
         ◦ Created a script to communicate direct with the machine and AWS Endpoints of the company back-ends, for invoices signing of TRA VAT deduction per transactions made via Mobile Money.
     • Solar-coin Wallet Monitoring &  Block-chain  innovative solutions  implementation
+      
 {
 	“Title”:  “Computer Repair Technician & Programmer”,
 	“Employer”: “Tembo Electronics”,
@@ -115,10 +135,9 @@ Responsibilities;
     • Embedded Systems | IoT Devices development
     • Administration of Ubuntu Servers | Cloud instances
 
+
 PROJECTS:
-
-Proprietary;
-
+	Proprietary ;
     • MUP( Micro Utility Platform )
 
 Was part of the team that developed & maintained an automated Micro Utility Platform that is integrated to CRM solutions, Mobile Money payment gateways [ Mpesa, Tigo pesa, Halopesa, Airtel Money, Tpesa & MTN ] and a cloud metering system. The platform simplified customer orders creation ( using third part CRM solution i.e Salesforce ), by automatically parsing the payments made via MM to the metering system that the customers order was created on in real time. Previously the tasks were done manually by the operators. It was also linked to Bulk sms service for notification to the customers i.e. when they made payments, and for their other various services usage and payments processes in general. Also it helped to automatically switch the customer meters to 0(off) or 1(on) accordingly to customer balance, payments and usage status.
@@ -133,12 +152,19 @@ On every API Call the API will create an object named request Container in the d
 The tool simplified the IT team on performing bulk repetitive admin tasks, generated reports via user friendly dashboards for end of the month KPIs and overall improved the team workflow.
 
     • Others to be shared upon request.
-
-Open-source;
-
+      	
+	Open-source;
     • Blockchain_Prototyping
 
 Experimenting around block-chain implementation using python [code base].
+      
+    • PyESD
+
+a simple Python based script for automatically querying and signing invoices sent over the network via custom ESD REST web service.
+      
+    • p5.js Sketches
+
+Digital art using p5.js library.
 
     • scheme-In-haskell
 
@@ -155,10 +181,6 @@ A brew tap for installing older versions of Python.
     • Homebrew-Cask
 
 Homebrew-Cask extends Homebrew and brings its elegance, simplicity, and speed to the installation and management of GUI macOS applications such as Atom and Google Chrome .
-
-    • Reverse-Shell
-
-Reverse Attacker TCP Python Shell
 
     • Other
 	
@@ -179,5 +201,4 @@ Coursera Certifications;
     • Ruby on Rails Web Services and Integration with MongoDB
 
 REFEREES:
-
 Available upon request!
